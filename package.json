@@ -1,0 +1,21 @@
+{
+  "name": "pav-l",
+  "displayName": "pav-l",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pav-l",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pav-l-color-theme.json"
+      }
+    ]
+  }
+}
